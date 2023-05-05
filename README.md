@@ -40,3 +40,7 @@ You can change the delay time to check the 1secmail API : data/config/time_secon
 The attached files may not function correctly on occasion, which could potentially be attributed to limitations within the 1secmail API.
 
 The primary purpose of this program is to assist developers and other users in managing temporary emails. It is important to note that this program should not be used for any illegal activities, and we strongly encourage all users to respect the terms and conditions of the 1secmail service.
+
+
+### teste
+teste
